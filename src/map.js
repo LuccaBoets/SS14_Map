@@ -9,12 +9,9 @@ import hardcore from './assets/Fland-0.png';
 import CanvasSource from 'ol/source/ImageCanvas.js';
 import ImageLayer from 'ol/layer/Image.js';
 
-const mapImages = import.meta.glob('./assets/Fland-0.png', { eager: true });
-
 function getMapImage(name) {
-    return mapImages[`./assets/${name}.png`]?.default;
+    return `./src/assets/${name}.png`;
 }
-
 
 const imageWidth = 5536;
 const imageHeight = 4480;
