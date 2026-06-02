@@ -5,7 +5,6 @@ import { defaults as defaultInteractions } from 'ol/interaction/defaults.js';
 import DragRotateAndZoom from 'ol/interaction/DragRotateAndZoom.js';
 import ImageStatic from 'ol/source/ImageStatic.js';
 import Projection from 'ol/proj/Projection.js';
-// import hardcore from './assets/Fland-0.png';
 import CanvasSource from 'ol/source/ImageCanvas.js';
 import ImageLayer from 'ol/layer/Image.js';
 
