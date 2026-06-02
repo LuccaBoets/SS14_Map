@@ -1,3 +1,3 @@
 export default {
-    base: '/repo-name/', // replace with your actual repo name
+    base: '/SS14_Map/', // replace with your actual repo name
 }
