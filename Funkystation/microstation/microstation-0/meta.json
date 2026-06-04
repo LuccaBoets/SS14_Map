@@ -1,0 +1,15 @@
+{
+  "image": "microstation-0.png",
+  "width": 416,
+  "height": 512,
+  "tileSize": 256,
+  "cols": 2,
+  "rows": 2,
+  "tileCount": 4,
+  "tiles": [
+    "tile_0_0.png",
+    "tile_1_0.png",
+    "tile_0_1.png",
+    "tile_1_1.png"
+  ]
+}

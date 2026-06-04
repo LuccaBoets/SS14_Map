@@ -1,0 +1,104 @@
+{
+  "Funkystation": {
+    "Amber": [
+      "Amber-0"
+    ],
+    "Atlas": [
+      "Atlas-0"
+    ],
+    "Bagel": [
+      "Bagel-0"
+    ],
+    "Box": [
+      "Box-0"
+    ],
+    "Bramble": [
+      "Bramble-0"
+    ],
+    "Cluster": [
+      "Cluster-0"
+    ],
+    "Cog": [
+      "Cog-0"
+    ],
+    "Court": [
+      "Court-0"
+    ],
+    "Cyberiad": [
+      "Cyberiad-0"
+    ],
+    "Divide": [
+      "Divide-0"
+    ],
+    "Eclipse": [
+      "Eclipse-0"
+    ],
+    "Eden": [
+      "Eden-0"
+    ],
+    "Elkridge": [
+      "Elkridge-0"
+    ],
+    "Fland": [
+      "Fland-0"
+    ],
+    "Gate": [
+      "Gate-0",
+      "Gate-1",
+      "Gate-2",
+      "Gate-3",
+      "Gate-4",
+      "Gate-5"
+    ],
+    "Gax": [
+      "Gax-0"
+    ],
+    "Glacier": [
+      "Glacier-0",
+      "Glacier-1"
+    ],
+    "Loop": [
+      "Loop-0"
+    ],
+    "Marathon": [
+      "Marathon-0"
+    ],
+    "Meta": [
+      "Meta-0"
+    ],
+    "microstation": [
+      "microstation-0"
+    ],
+    "Oasis": [
+      "Oasis-0",
+      "Oasis-1"
+    ],
+    "Olympus": [
+      "Olympus-0"
+    ],
+    "Omega": [
+      "Omega-0"
+    ],
+    "Packed": [
+      "Packed-0"
+    ],
+    "Plasma": [
+      "Plasma-0"
+    ],
+    "Reach": [
+      "Reach-0"
+    ],
+    "Resort": [
+      "Resort-0"
+    ],
+    "roid_outpost": [
+      "roid_outpost-0"
+    ],
+    "Saltern": [
+      "Saltern-0"
+    ],
+    "Train": [
+      "Train-0"
+    ]
+  }
+}

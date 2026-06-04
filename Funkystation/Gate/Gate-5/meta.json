@@ -1,0 +1,13 @@
+{
+  "image": "Gate-5.png",
+  "width": 224,
+  "height": 416,
+  "tileSize": 256,
+  "cols": 1,
+  "rows": 2,
+  "tileCount": 2,
+  "tiles": [
+    "tile_0_0.png",
+    "tile_0_1.png"
+  ]
+}
