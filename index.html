@@ -1,99 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8">
-  <title>Custom Overview Map</title>
-  <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css"
-    type="text/css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SS14 Map Browser</title>
+
   <style>
-    html,
     body {
-      margin: 0;
-      height: 100%;
-      background-color: #060913;
+        background-color: #25252A;
     }
 
-    #map {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      width: 100%;
+    * {
+        font-family: Figtree,sans-serif;
+        color: #f2f4f1;
     }
 
-    .ol-zoom .ol-zoom-in,
-    .ol-zoom .ol-zoom-out {
-      position: relative;
-      background-color: #464b45;
-      color: #f2f4f1;
-      font-size: 24px;
-      font-weight: 600;
-      text-decoration: none;
-      border: none;
-      cursor: pointer;
-      clip-path: polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px));
-      min-width: 10px;
-      text-align: center;
-      transition: background-color .2s ease,color .2s ease;
-      white-space: nowrap;
-      box-sizing: border-box;
-      flex-shrink: 0;
-      margin-bottom: 10px;
+    .menu {
+        background-color: #303031;
+        clip-path: polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px));
+        border: none;
+        margin: 10%;
+        margin-top: 3%;
+        padding: 30px;
     }
 
-    .ol-zoom .ol-zoom-in:hover,
-    .ol-zoom .ol-zoom-out:hover {
+    .map-link {
+        display: block;
+        font-family: Figtree,sans-serif;
+        background-color: #464b45;
+        color: #f2f4f1;
+        font-size: 18px;
+        height: 33px;
+        font-weight: 600;
+        text-decoration: none;
+        border: none;
+        cursor: pointer;
+        clip-path: polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px));
+        text-align: center;
+        transition: background-color .2s ease,color .2s ease;
+        white-space: nowrap;
+        box-sizing: border-box;
+        flex-shrink: 0;
+        margin-bottom: 10px;
+        min-width: 100px;
+        max-width: 300px;
+        padding-left: 10px;
+        padding-right: 10px;
+        line-height: 33px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .map-link:hover {
       background-color: #5a6159;
     }
 
-    .ol-control:hover {
-      background: None;
+    .grid .subgrid {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
     }
 
-    .ol-control {
-      background: None;
-      margin-left: 20px;
-      margin-top: 60px;
-    }
-
-    #select {
-      display: none;
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      z-index: 1000;
-      background-color: #464b45;
-      color: #f2f4f1;
-      font-size: 18px;
-      height: 33px;
-      font-weight: 600;
-      text-decoration: none;
-      border: none;
-      cursor: pointer;
-      clip-path: polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px));
-      min-width: 10px;
-      text-align: center;
-      transition: background-color .2s ease,color .2s ease;
-      white-space: nowrap;
-      box-sizing: border-box;
-      flex-shrink: 0;
-      margin-bottom: 10px;
-      margin-left: 20px;
-      margin-top: 20px;
-    }
   </style>
   <script type="importmap">
-    { "imports": { "ol/": "https://cdn.jsdelivr.net/npm/ol@10.3.1/" } }
+    { "imports": { "i18next/": "https://cdnjs.com/libraries/i18next/" } }
   </script>
-  <script type="module" crossorigin src="/assets/index-Cs9UFARu.js"></script>
+  <script type="module" crossorigin src="/assets/index-l1kTozjm.js"></script>
 </head>
-
 <body>
-  <select name="Stations" id="select" style="z-index: 100;">
-  </select>
-  <div id="map" class="map"></div>
 
+    <div class="menu">
+      <header>
+        <h1 class="label">SS14 Map Browser</h1>
+      </header>
+      <div class="grid" id="grid"></div>
+  </div>
 
-
+
 </body>
 </html>

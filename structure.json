@@ -100,5 +100,38 @@
     "Train": [
       "Train-0"
     ]
+  },
+  "HL": {
+    "Amber": [
+      "Amber-0"
+    ],
+    "Bagel": [
+      "Bagel-0"
+    ],
+    "Box": [
+      "Box-0",
+      "Box-1"
+    ],
+    "Convex": [
+      "Convex-0"
+    ],
+    "Eaglerock": [
+      "Eaglerock-0"
+    ],
+    "Elkridge": [
+      "Elkridge-0"
+    ],
+    "Fland": [
+      "Fland-0"
+    ],
+    "HardCore": [
+      "HardCore-0"
+    ],
+    "HardlightSilica": [
+      "HardlightSilica-0"
+    ],
+    "Reach": [
+      "Reach-0"
+    ]
   }
 }
