@@ -1,0 +1,13 @@
+{
+  "image": "StarlightCork-2.png",
+  "width": 352,
+  "height": 640,
+  "tileSize": 512,
+  "cols": 1,
+  "rows": 2,
+  "tileCount": 2,
+  "tiles": [
+    "tile_0_0.png",
+    "tile_0_1.png"
+  ]
+}

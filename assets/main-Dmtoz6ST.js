@@ -1,3 +1,0 @@
-import{t as e}from"./i18next-DLYN8E2s.js";var t=await fetch(`./structure.json`).then(e=>e.json());console.log(t);var n=document.getElementById(`grid`);Object.entries(t).forEach(([t,r])=>{let i=document.createElement(`h2`);n.appendChild(i),i.className=`subtitle`,i.textContent=e.t(t);let a=document.createElement(`div`);n.appendChild(a),a.className=`subgrid`,Object.entries(r).forEach(([n,r])=>{let i=document.createElement(`a`);i.className=`map-link`,i.href=`/map?station=${t}&map=${n}`,i.innerHTML=`
-            ${e.t(n)}
-            `,a.appendChild(i)})});

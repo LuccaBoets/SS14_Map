@@ -2,13 +2,11 @@
   "image": "Gate-4.png",
   "width": 352,
   "height": 288,
-  "tileSize": 256,
-  "cols": 2,
-  "rows": 2,
-  "tileCount": 3,
+  "tileSize": 512,
+  "cols": 1,
+  "rows": 1,
+  "tileCount": 1,
   "tiles": [
-    "tile_0_0.png",
-    "tile_1_0.png",
-    "tile_0_1.png"
+    "tile_0_0.png"
   ]
 }

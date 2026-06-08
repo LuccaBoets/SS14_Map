@@ -1,0 +1,28 @@
+{
+  "image": "StarlightStationBuilding-0.png",
+  "width": 2112,
+  "height": 1792,
+  "tileSize": 512,
+  "cols": 5,
+  "rows": 4,
+  "tileCount": 17,
+  "tiles": [
+    "tile_0_0.png",
+    "tile_1_0.png",
+    "tile_2_0.png",
+    "tile_3_0.png",
+    "tile_4_0.png",
+    "tile_0_1.png",
+    "tile_1_1.png",
+    "tile_2_1.png",
+    "tile_3_1.png",
+    "tile_4_1.png",
+    "tile_0_2.png",
+    "tile_1_2.png",
+    "tile_2_2.png",
+    "tile_3_2.png",
+    "tile_0_3.png",
+    "tile_1_3.png",
+    "tile_2_3.png"
+  ]
+}

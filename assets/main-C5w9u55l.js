@@ -1,0 +1,3 @@
+import{t as e}from"./i18next-Dwgkeukr.js";var t=await fetch(`./structure.json`).then(e=>e.json()),n=document.getElementById(`grid`);Object.entries(t).forEach(([t,r])=>{let i=document.createElement(`h2`);n.appendChild(i),i.className=`subtitle`,i.innerHTML=`${e.t(t)} `,t===`Starlight`&&(i.innerHTML=`${e.t(t)} <a class="rightTitle" href="https://starlight.network/maps">official map</a>`);let a=document.createElement(`div`);n.appendChild(a),a.className=`subgrid`,Object.entries(r).forEach(([n,r])=>{let i=document.createElement(`a`);i.className=`map-link`,i.href=`/map?station=${t}&map=${n}`,i.innerHTML=`
+            ${e.t(n)}
+            `,a.appendChild(i)})});

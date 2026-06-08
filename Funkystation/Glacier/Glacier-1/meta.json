@@ -2,7 +2,7 @@
   "image": "Glacier-1.png",
   "width": 160,
   "height": 160,
-  "tileSize": 256,
+  "tileSize": 512,
   "cols": 1,
   "rows": 1,
   "tileCount": 1,

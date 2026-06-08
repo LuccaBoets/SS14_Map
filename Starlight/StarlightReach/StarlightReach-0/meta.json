@@ -1,0 +1,22 @@
+{
+  "image": "StarlightReach-0.png",
+  "width": 1984,
+  "height": 1216,
+  "tileSize": 512,
+  "cols": 4,
+  "rows": 3,
+  "tileCount": 11,
+  "tiles": [
+    "tile_0_0.png",
+    "tile_1_0.png",
+    "tile_2_0.png",
+    "tile_3_0.png",
+    "tile_0_1.png",
+    "tile_1_1.png",
+    "tile_2_1.png",
+    "tile_3_1.png",
+    "tile_1_2.png",
+    "tile_2_2.png",
+    "tile_3_2.png"
+  ]
+}

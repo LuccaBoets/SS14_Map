@@ -66,9 +66,6 @@
     "Meta": [
       "Meta-0"
     ],
-    "microstation": [
-      "microstation-0"
-    ],
     "Oasis": [
       "Oasis-0",
       "Oasis-1"
@@ -112,6 +109,9 @@
       "Box-0",
       "Box-1"
     ],
+    "ColComm": [
+      "ColComm-0"
+    ],
     "Convex": [
       "Convex-0"
     ],
@@ -132,6 +132,104 @@
     ],
     "Reach": [
       "Reach-0"
+    ]
+  },
+  "Starlight": {
+    "StarlightBagel": [
+      "StarlightBagel-0",
+      "StarlightBagel-1"
+    ],
+    "StarlightBarratry": [
+      "StarlightBarratry-0"
+    ],
+    "StarlightBox": [
+      "StarlightBox-0"
+    ],
+    "StarlightBoxcars": [
+      "StarlightBoxcars-0"
+    ],
+    "StarlightCluster": [
+      "StarlightCluster-0"
+    ],
+    "StarlightCog": [
+      "StarlightCog-0"
+    ],
+    "StarlightCork": [
+      "StarlightCork-0",
+      "StarlightCork-1",
+      "StarlightCork-2",
+      "StarlightCork-3"
+    ],
+    "StarlightElkridge": [
+      "StarlightElkridge-0"
+    ],
+    "StarlightFland": [
+      "StarlightFland-0",
+      "StarlightFland-1",
+      "StarlightFland-2"
+    ],
+    "StarlightHotel": [
+      "StarlightHotel-0"
+    ],
+    "StarlightKiloton": [
+      "StarlightKiloton-0"
+    ],
+    "StarlightLagan": [
+      "StarlightLagan-0"
+    ],
+    "StarlightLeth": [
+      "StarlightLeth-0"
+    ],
+    "StarlightLobster": [
+      "StarlightLobster-0"
+    ],
+    "StarlightManor": [
+      "StarlightManor-0"
+    ],
+    "StarlightMing": [
+      "StarlightMing-0"
+    ],
+    "StarlightOasis": [
+      "StarlightOasis-0",
+      "StarlightOasis-1"
+    ],
+    "StarlightOrwell": [
+      "StarlightOrwell-0"
+    ],
+    "StarlightPacked": [
+      "StarlightPacked-0"
+    ],
+    "StarlightPlasma": [
+      "StarlightPlasma-0"
+    ],
+    "StarlightPrism": [
+      "StarlightPrism-0"
+    ],
+    "StarlightReach": [
+      "StarlightReach-0"
+    ],
+    "StarlightSaltern": [
+      "StarlightSaltern-0"
+    ],
+    "StarlightSepultum": [
+      "StarlightSepultum-0"
+    ],
+    "StarlightSerpentcrest": [
+      "StarlightSerpentcrest-0",
+      "StarlightSerpentcrest-1",
+      "StarlightSerpentcrest-2"
+    ],
+    "StarlightSilica": [
+      "StarlightSilica-0"
+    ],
+    "StarlightSpaceMall": [
+      "StarlightSpaceMall-0"
+    ],
+    "StarlightStarboard": [
+      "StarlightStarboard-0"
+    ],
+    "StarlightStationBuilding": [
+      "StarlightStationBuilding-0"
     ]
   }
 }

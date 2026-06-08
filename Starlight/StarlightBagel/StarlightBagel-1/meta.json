@@ -1,0 +1,14 @@
+{
+  "image": "StarlightBagel-1.png",
+  "width": 1152,
+  "height": 480,
+  "tileSize": 512,
+  "cols": 3,
+  "rows": 1,
+  "tileCount": 3,
+  "tiles": [
+    "tile_0_0.png",
+    "tile_1_0.png",
+    "tile_2_0.png"
+  ]
+}

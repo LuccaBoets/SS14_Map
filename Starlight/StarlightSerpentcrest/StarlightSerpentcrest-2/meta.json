@@ -1,0 +1,13 @@
+{
+  "image": "StarlightSerpentcrest-2.png",
+  "width": 768,
+  "height": 416,
+  "tileSize": 512,
+  "cols": 2,
+  "rows": 1,
+  "tileCount": 2,
+  "tiles": [
+    "tile_0_0.png",
+    "tile_1_0.png"
+  ]
+}

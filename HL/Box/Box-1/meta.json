@@ -2,7 +2,7 @@
   "image": "Box-1.png",
   "width": 96,
   "height": 96,
-  "tileSize": 256,
+  "tileSize": 512,
   "cols": 1,
   "rows": 1,
   "tileCount": 1,
