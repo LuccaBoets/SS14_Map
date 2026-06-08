@@ -98,6 +98,110 @@
       "Train-0"
     ]
   },
+  "Goob": {
+    "Amber": [
+      "Amber-0"
+    ],
+    "Atlas": [
+      "Atlas-0"
+    ],
+    "Bagel": [
+      "Bagel-0",
+      "Bagel-1",
+      "Bagel-2"
+    ],
+    "Barratry": [
+      "Barratry-0"
+    ],
+    "Chloris": [
+      "Chloris-0"
+    ],
+    "Cluster": [
+      "Cluster-0"
+    ],
+    "Cog": [
+      "Cog-0"
+    ],
+    "Core": [
+      "Core-0",
+      "Core-1"
+    ],
+    "Delta": [
+      "Delta-0"
+    ],
+    "Fland": [
+      "Fland-0"
+    ],
+    "Kettle": [
+      "Kettle-0"
+    ],
+    "Lambda": [
+      "Lambda-0"
+    ],
+    "Loop": [
+      "Loop-0"
+    ],
+    "Marathon": [
+      "Marathon-0"
+    ],
+    "Meta": [
+      "Meta-0"
+    ],
+    "Oasis": [
+      "Oasis-0",
+      "Oasis-1"
+    ],
+    "Omega": [
+      "Omega-0"
+    ],
+    "Origin": [
+      "Origin-0"
+    ],
+    "Packed": [
+      "Packed-0"
+    ],
+    "Reach": [
+      "Reach-0"
+    ],
+    "Saltern": [
+      "Saltern-0"
+    ],
+    "Train": [
+      "Train-0",
+      "Train-1",
+      "Train-10",
+      "Train-11",
+      "Train-12",
+      "Train-13",
+      "Train-14",
+      "Train-15",
+      "Train-16",
+      "Train-17",
+      "Train-18",
+      "Train-19",
+      "Train-2",
+      "Train-20",
+      "Train-21",
+      "Train-22",
+      "Train-23",
+      "Train-24",
+      "Train-25",
+      "Train-26",
+      "Train-27",
+      "Train-28",
+      "Train-29",
+      "Train-3",
+      "Train-30",
+      "Train-31",
+      "Train-32",
+      "Train-4",
+      "Train-5",
+      "Train-6",
+      "Train-7",
+      "Train-8",
+      "Train-9"
+    ]
+  },
   "HL": {
     "Amber": [
       "Amber-0"
@@ -230,6 +334,107 @@
     ],
     "StarlightStationBuilding": [
       "StarlightStationBuilding-0"
+    ]
+  },
+  "Wizden": {
+    "Amber": [
+      "Amber-0",
+      "Amber-1"
+    ],
+    "Bagel": [
+      "Bagel-0",
+      "Bagel-1"
+    ],
+    "Box": [
+      "Box-0",
+      "Box-1"
+    ],
+    "Convex": [
+      "Convex-0"
+    ],
+    "Core": [
+      "Core-0",
+      "Core-1"
+    ],
+    "Elkridge": [
+      "Elkridge-0"
+    ],
+    "Fland": [
+      "Fland-0"
+    ],
+    "Gate": [
+      "Gate-0",
+      "Gate-1",
+      "Gate-2",
+      "Gate-3",
+      "Gate-4",
+      "Gate-5"
+    ],
+    "Loop": [
+      "Loop-0"
+    ],
+    "Marathon": [
+      "Marathon-0"
+    ],
+    "Meta": [
+      "Meta-0",
+      "Meta-1"
+    ],
+    "Oasis": [
+      "Oasis-0",
+      "Oasis-1"
+    ],
+    "Omega": [
+      "Omega-0"
+    ],
+    "Packed": [
+      "Packed-0"
+    ],
+    "Plasma": [
+      "Plasma-0"
+    ],
+    "Reach": [
+      "Reach-0"
+    ],
+    "Relic": [
+      "Relic-0"
+    ],
+    "Saltern": [
+      "Saltern-0"
+    ],
+    "Train": [
+      "Train-0",
+      "Train-1",
+      "Train-10",
+      "Train-11",
+      "Train-12",
+      "Train-13",
+      "Train-14",
+      "Train-15",
+      "Train-16",
+      "Train-17",
+      "Train-18",
+      "Train-19",
+      "Train-2",
+      "Train-20",
+      "Train-21",
+      "Train-22",
+      "Train-23",
+      "Train-24",
+      "Train-25",
+      "Train-26",
+      "Train-27",
+      "Train-28",
+      "Train-29",
+      "Train-3",
+      "Train-30",
+      "Train-31",
+      "Train-4",
+      "Train-5",
+      "Train-6",
+      "Train-7",
+      "Train-8",
+      "Train-9"
     ]
   }
 }

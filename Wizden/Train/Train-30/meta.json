@@ -1,0 +1,12 @@
+{
+  "image": "Train-30.png",
+  "width": 32,
+  "height": 32,
+  "tileSize": 512,
+  "cols": 1,
+  "rows": 1,
+  "tileCount": 1,
+  "tiles": [
+    "tile_0_0.png"
+  ]
+}
